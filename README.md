@@ -11,4 +11,4 @@ This image shows how the user can enter the letters.
 <kbd>
 <img src="result.png" alt="result" width=1200px height=250px>
 </kbd>
-These are the possible best words for the given letters.
+On clicking submit, we get the best possible words for the given letters.
